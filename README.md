@@ -1,7 +1,7 @@
 👋 Hi, I’m @neiroc
 ===================
 
-## DevOps Engineer / Software Analyst
+DevOps Engineer / Software Analyst
 -------------------------------------
 
 * 🌍 Based in Milan, Italy
