@@ -26,3 +26,8 @@
 ![gitlab](https://img.shields.io/badge/Gitlab_CI/CD-whitesmoke?style=for-the-badge&logo=gitlab)
 ![github](https://img.shields.io/badge/Github_Actions-whitesmoke?style=for-the-badge&logo=github&logoColor=black)
 
+--- 
+
+### Extra
+
+![GitLab Account](https://img.shields.io/badge/GitLab%20Account-whitesmoke?style=social&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fneiroc&link=https%3A%2F%2Fgitlab.com%2Fneiroc)
