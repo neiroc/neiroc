@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-whitesmoke?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-whitesmoke?style=for-the-badge&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.js-whitesmoke?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python.js-whitesmoke?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-whitesmoke?style=for-the-badge&logo=python)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-whitesmoke?style=for-the-badge&logo=typescript) -->
   
  #### DevOps
