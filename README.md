@@ -5,6 +5,8 @@
 * 🌍 Based in Milan, Italy
 * 📫 You can contact me at [emarchel@proton.me](mailto:emarchel@proton.me)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-whitesmoke?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/emarchel/)
+
 ---
 
 ### Tech Stack
@@ -17,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-whitesmoke?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-whitesmoke?style=for-the-badge&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.js-whitesmoke?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python.js-whitesmoke?style=for-the-badge&logo=python)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-whitesmoke?style=for-the-badge&logo=typescript) -->
   
  #### DevOps
@@ -30,4 +33,4 @@
 
 ### Extra
 
-![GitLab Account](https://img.shields.io/badge/GitLab%20Account-whitesmoke?style=social&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fneiroc&link=https%3A%2F%2Fgitlab.com%2Fneiroc)
+[![Static Badge](https://img.shields.io/badge/GitLab%20Account-whitesmoke?style=social&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fneiroc&link=https%3A%2F%2Fgitlab.com%2Fneiroc)](https://gitlab.com/neiroc)
