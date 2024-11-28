@@ -2,7 +2,7 @@
 
 ### DevOps Engineer / Software Analyst
 
-* 🌍 Based in Milan, Italy
+* 🌍 Based in Italy
 * 📫 You can contact me at [emarchel@proton.me](mailto:emarchel@proton.me)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-whitesmoke?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/emarchel/)
